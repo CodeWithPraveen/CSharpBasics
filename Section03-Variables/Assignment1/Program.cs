@@ -6,12 +6,12 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
-            // console write and readline
-
-            string strName = "Hello, World";
-            Console.WriteLine(strName);
-
+            // Exercise 1
+            // Write C# code snippet to declare a character and assign value 'C'. Print the same to the Console.
             
+
+            // Exercise 2
+            // Write C# code snippet to assign "hello" to a string variable and print the same to the Console.
         }
     }
 }
