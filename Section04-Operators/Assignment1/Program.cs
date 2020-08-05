@@ -11,7 +11,7 @@ namespace Assignment1
             //    (5-3)^2 = 4
             //    (10-6)^2 = 16
             // Note: The formula of (a-b)^2 = (a x a) + (b x b) - (2 x a x b)
-
+                
             // TODO.
         }
     }
